@@ -1,5 +1,5 @@
-# flutter_complete_guide
+# Quiz Application
 
-A new Flutter project.
+A simple flutter project where in you answer a few questions and then get a response accordingly.
 
 To run application - flutter run
